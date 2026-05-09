@@ -1,0 +1,6 @@
+streamlit
+spacy
+sentence-transformers
+scikit-learn
+tf-keras
+nltk
