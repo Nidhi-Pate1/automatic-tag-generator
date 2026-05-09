@@ -1,6 +1,6 @@
-streamlit
-spacy
-sentence-transformers
+streamlit>=1.30.0
+spacy>=3.7.0
+sentence-transformers>=2.2.2
 scikit-learn
 tf-keras
 nltk
