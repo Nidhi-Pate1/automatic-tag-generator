@@ -1,8 +1,7 @@
-streamlit>=1.30.0
+streamlit
 numpy<2.0.0
-spacy==3.7.5
+spacy<3.8.0
 sentence-transformers
 scikit-learn
 nltk
-tf-keras
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
